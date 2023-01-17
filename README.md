@@ -2,4 +2,4 @@
 MS Project: Time Series Analysis
 
 ABSTRACT:
-This paper aims to present a forecast for renewable energy production in the USA for next 5 years.
+The purpose of this study was to model and forecast renewable energy production in the USA over the next five years using the ARIMA modell of time series analysis.
